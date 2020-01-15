@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Obstacle
+  - Acid
+  - Enemy
+  - GrayButton
+  - RedButton
+  - OrangeTeleport
+  - Killzone
+  - YellowButton
+  - Gate
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -13,7 +23,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Cube
   - 
   - 
   - 

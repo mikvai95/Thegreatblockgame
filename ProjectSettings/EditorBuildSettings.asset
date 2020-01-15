@@ -4,5 +4,53 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 559af6783126ddb49b8fbf9574feecc4
+  - enabled: 1
+    path: Assets/Scenes/Help Menu.unity
+    guid: e09b3987460a6ac488eac09460fd337b
+  - enabled: 1
+    path: Assets/Scenes/taso1.unity
+    guid: 7aaaa467ff90ceb459a45778b1bca5f7
+  - enabled: 1
+    path: Assets/Scenes/taso2.unity
+    guid: 15d5566cbe7d92147aea7a19a51c918d
+  - enabled: 1
+    path: Assets/Scenes/taso3.unity
+    guid: e6ec8c2b751356f42940203d49db270e
+  - enabled: 1
+    path: Assets/Scenes/taso4.unity
+    guid: c6e986975bf958843b9766191486d8b3
+  - enabled: 1
+    path: Assets/Scenes/taso5.unity
+    guid: d2aeda17c2d7c5946b2846a405809f2e
+  - enabled: 1
+    path: Assets/Scenes/taso6.unity
+    guid: 00593664379776446abde2c4dbf02438
+  - enabled: 1
+    path: Assets/Scenes/taso7.unity
+    guid: 9f8034f8f393f2445973e893c6ef8eb8
+  - enabled: 1
+    path: Assets/Scenes/taso8.unity
+    guid: 8c6e343fe9fdaba498871e4d63928329
+  - enabled: 1
+    path: Assets/Scenes/taso9.unity
+    guid: b99db6c9c6ed6b344b2f1dbbee423b48
+  - enabled: 1
+    path: Assets/Scenes/taso10.unity
+    guid: 5892f58301fe7444b95dfbad4781d5cf
+  - enabled: 1
+    path: Assets/Scenes/taso11.unity
+    guid: 1eb8bab3a817f5d4eb8ccad840ad8cb9
+  - enabled: 1
+    path: Assets/Scenes/taso12.unity
+    guid: a78f49b30e0390043a267ecf4ad65ab6
+  - enabled: 1
+    path: Assets/Scenes/taso13.unity
+    guid: a978ba10e7b249e4a9eac383f23e8024
+  - enabled: 1
+    path: Assets/Scenes/taso14.unity
+    guid: a46372d1eb2dc0543a8074ef14fd09c7
   m_configObjects: {}
